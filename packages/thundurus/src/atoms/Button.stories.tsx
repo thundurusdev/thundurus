@@ -16,3 +16,9 @@ Default.args = {
   children: 'Default',
   onClick: () => {console.log('Default clicked')}
 }
+
+export const Secondary: ComponentStory<typeof Button> = () => (
+  <Button>
+    Secondary
+  </Button>
+);

@@ -1,58 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58ace849-c5ed-4745-ad4a-4a4327b9d0b2" name="Changes" comment="Add button story">
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/babel/544afce90ddff101e360444969e9127a.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/babel/651580ea25820b8cf6072abae050ac86.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/42af5eef99c0d74e306f.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/9766e69cefce7c6bb709.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/a3439d52c7fd761b99af.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/a61bd0d17e7b3d7d7583.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/cd6f3b06c5a253520c1a.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/e99c2fd4c3dccb957323.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.42af5eef99c0d74e306f.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.42af5eef99c0d74e306f.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.9766e69cefce7c6bb709.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.9766e69cefce7c6bb709.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.a3439d52c7fd761b99af.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.a3439d52c7fd761b99af.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.a61bd0d17e7b3d7d7583.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.a61bd0d17e7b3d7d7583.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.cd6f3b06c5a253520c1a.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.cd6f3b06c5a253520c1a.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.e99c2fd4c3dccb957323.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.e99c2fd4c3dccb957323.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/vendors~main.e99c2fd4c3dccb957323.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/vendors~main.e99c2fd4c3dccb957323.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/src/atoms/Button.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/thundurus/src/atoms/Button.tsx" afterDir="false" />
+    <list default="true" id="58ace849-c5ed-4745-ad4a-4a4327b9d0b2" name="Changes" comment="Add emotion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/.storybook/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/dev-server/325c8f456729b912b0d2134054eb7448-41ac79ddc5290d504ad69ef1fe8200a7" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/dev-server/325c8f456729b912b0d2134054eb7448-41ac79ddc5290d504ad69ef1fe8200a7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/dev-server/325c8f456729b912b0d2134054eb7448-48e381d35175d17580aff0345cc85649" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/dev-server/325c8f456729b912b0d2134054eb7448-48e381d35175d17580aff0345cc85649" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/1.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/1.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/1.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/1.iframe.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/2.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/2.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/2.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/2.iframe.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/3.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/3.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/3.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/3.iframe.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/4.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/4.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/4.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/4.iframe.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/5.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/5.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/5.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/5.iframe.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/6.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/6.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/6.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/6.iframe.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/7.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/7.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/7.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/7.iframe.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/8.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/8.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/8.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/8.iframe.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/iframe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.iframe.bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/main.iframe.bundle.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/runtime~main.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/runtime~main.iframe.bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/runtime~main.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/runtime~main.iframe.bundle.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/vendors~main.iframe.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/vendors~main.iframe.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/vendors~main.iframe.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/node_modules/.cache/storybook/public/vendors~main.iframe.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/thundurus/src/atoms/Button.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/src/atoms/Button.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/thundurus/src/atoms/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/src/atoms/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/thundurus/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/thundurus/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655359037184</updated>
-      <workItem from="1655359038411" duration="7976000" />
+      <workItem from="1655359038411" duration="20621000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1655365043540</created>
@@ -129,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655366423829</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add button onClick">
+      <created>1655367177141</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655367177141</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add emotion">
+      <created>1655369376939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655369376939</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +124,8 @@
     <MESSAGE value="Initial" />
     <MESSAGE value="RM default stories" />
     <MESSAGE value="Add button story" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add button story" />
+    <MESSAGE value="Add button onClick" />
+    <MESSAGE value="Add emotion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add emotion" />
   </component>
 </project>
