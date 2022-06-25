@@ -1,3 +1,3 @@
 # Thundurus in progress...
 
-A UI component library written in Typescript
+A UI component library being put together as I design applications
